@@ -92,6 +92,15 @@ $ flutter doctor
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart          13 hrs 34 mins        ████████████████████▒░░░░   81.20 %
+YAML          33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Markdown      30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Other         30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Bash          29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🎧 AUDIO BUFFER
